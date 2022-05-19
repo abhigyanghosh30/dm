@@ -1,9 +1,9 @@
 dm.
 ==============================
-A dark theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [Dream Machine](https://github.com/Lindstream/dm-refind-theme).
+A dark theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [dm](https://github.com/mustaqimM/dm) [Dream Machine](https://github.com/Lindstream/dm-refind-theme).
 ----
 **Screenshot**
-![M](https://github.com/mustaqimM/dm/blob/master/screenshot.png)
+![M](https://github.com/abhigyanghosh30/dm/blob/master/screenshot.png)
 
 Installation
 ----
